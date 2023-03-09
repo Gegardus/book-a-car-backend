@@ -59,3 +59,6 @@ gem 'devise'
 gem 'devise-jwt'
 
 gem 'fast_jsonapi'
+
+# The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
+gem "sprockets-rails"
